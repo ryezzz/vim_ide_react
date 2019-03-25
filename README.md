@@ -1,5 +1,5 @@
 
-## Installation
+## React Vim IDE Installation
 
 1.  From the main directory:
      $ npm install
